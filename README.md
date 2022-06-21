@@ -1,5 +1,5 @@
 # Autonomous Border Security Robot
-This is a repo of graduation thesis project of a mechatronics engineering department of Yildiz Technical University made by Koray Ertem, Fahri Yasar and M. Somer Odabas
+This is the repo of graduation thesis project of a mechatronics engineering department of Yildiz Technical University made by Koray Ertem, Fahri Yasar and M. Somer Odabas
 
 ## Sensors Used
 * RPLiDAR A3
